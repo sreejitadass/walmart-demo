@@ -1,9 +1,9 @@
 import React from "react";
-import wallpaper from "../assets/wallpaper.jpg";
-import laptop from "../assets/laptop.png";
+import wallpaper from "./../assets/wallpaper.jpg";
+import laptop from "./../assets/laptop.png";
 const Hero = () => {
   return (
-    <div className=" ">
+    <div className="w-full">
       <div className="flex item-center md:w-max xl:w-[70vw] mx-auto gap-5">
         {/* Fist Deal */}
         <div className="  relative  h-[35rem] flex items-end justify-center rounded-[1rem] md:w-[60vw]   overflow-hidden  mt-4 w-screen mx-4 md:mx-0  ">

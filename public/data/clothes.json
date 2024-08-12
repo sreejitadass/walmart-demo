@@ -1,0 +1,44 @@
+[
+  {
+    "id": "q1",
+    "name": "Lakeside Beachy Chairs",
+    "price": "1699",
+    "description": "Crafted from high-quality recycled materials, these chairs blend a stylish and sustainable seating solution designed for both comfort and environmental impact.",
+    "image": "images/lakeside-beach-chairs.jpg"
+  },
+  {
+    "id": "q2",
+    "name": "Zero-Waste Dustbins",
+    "price": "199",
+    "description": "Designed to seamlessly integrate into your waste management system, these dustbins offer a practical and sustainable approach to handling everyday waste while supporting a zero-waste lifestyle.",
+    "image": "images/dustbin_3.webp"
+  },
+  {
+    "id": "q3",
+    "name": "Dry Fruit Glass Jars",
+    "price": "649",
+    "description": "Crafted from high-quality glass, this jar offers an elegant way to store and display your favorite snacks while maintaining their natural flavor and crunch.",
+    "image": "images/assorted-nut-mixes-in-jars.jpg"
+  },
+  {
+    "id": "q4",
+    "name": "Green Bookshelf",
+    "price": "1799",
+    "description": "Discover the charm of efficient storage with our recycled bookshelf, designed to maximize space while adding a touch of style to any room.",
+    "image": "images/recycled_book_stand.png"
+  },
+  {
+    "id": "q5",
+    "name": "Eco Storage Pouch",
+    "price": "129",
+    "description": "Designed for those who value both functionality and sustainability, this pouch is ideal for organizing your essentials while making a positive impact on the planet.",
+    "image": "images/cloth-bag-with-text-on-a-wooden-shelf.jpg"
+  },
+  {
+    "id": "q6",
+    "name": "Comfy Shorts",
+    "price": "139",
+    "description": "Designed for the modern individual who values both style and sustainability, these shorts are made from environmentally conscious materials without compromising on quality or fashion.",
+    "image": "images/kids-fashion-shorts.jpg"
+  }
+]
