@@ -1,0 +1,173 @@
+/* Container for the cart component */
+.cart {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+}
+
+/* Styling for the cart item section */
+.cart-item {
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+/* Title row in the cart */
+.cart-title {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr 1fr 1fr 1fr;
+  padding: 10px 0;
+  border-bottom: 2px solid #ddd;
+  font-weight: bold;
+}
+
+.cart-title p {
+  margin: 0;
+}
+
+/* Styling for each item row in the cart */
+.cart-row {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr 1fr 1fr 1fr;
+  align-items: center;
+  padding: 10px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.cart-row img {
+  max-width: 100px;
+  max-height: 80px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.cart-row p {
+  margin: 0;
+}
+
+/* Button to remove item from cart */
+.remove-btn {
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+/* Button to remove item from cart on hover */
+.remove-btn:hover {
+  background-color: #c0392b;
+}
+
+/* Cart bottom section */
+.cart-bottom {
+  margin-top: 20px;
+}
+
+/* Styling for cart total section */
+.cart-total {
+  border-top: 2px solid #ddd;
+  padding-top: 20px;
+}
+
+/* Details of the cart total */
+.cart-total-details {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0;
+}
+
+.cart-total-details p {
+  margin: 0;
+}
+
+/* Button for checkout */
+.checkout-btn {
+  background-color: #2ecc71;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+/* Button for checkout on hover */
+.checkout-btn:hover {
+  background-color: #27ae60;
+}
+
+/* Styling for the empty cart section */
+.empty-cart {
+  text-align: center;
+  padding: 20px;
+}
+
+.empty-cart h2 {
+  margin-bottom: 20px;
+}
+
+.shop-btn {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+/* Button for shopping on hover */
+.shop-btn:hover {
+  background-color: #2980b9;
+}
+
+/* Promo code section */
+.cart-promo {
+  margin-top: 20px;
+}
+
+.promocode-input {
+  margin: 10px 0;
+}
+
+.promocode-input input {
+  padding: 5px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  width: 200px;
+}
+
+.btn1 {
+  background-color: #f39c12;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+/* Button for promo code on hover */
+.btn1:hover {
+  background-color: #e67e22;
+}
+.cart-green-points {
+  margin-top: 20px;
+  border-top: 2px solid #ddd;
+  padding-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.cart-green-points p {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #27ae60; /* Green color */
+}

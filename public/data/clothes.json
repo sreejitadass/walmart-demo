@@ -1,44 +1,44 @@
 [
   {
     "id": "q1",
-    "name": "Lakeside Beachy Chairs",
-    "price": "1699",
-    "description": "Crafted from high-quality recycled materials, these chairs blend a stylish and sustainable seating solution designed for both comfort and environmental impact.",
-    "image": "images/lakeside-beach-chairs.jpg"
+    "name": "Women's Oversized Sweater",
+    "price": "549",
+    "description": " Designed with comfort in mind, this sweater features a soft, breathable knit fabric that feels gentle on the skin, perfect for those chilly days.",
+    "image": "images/p6.jpg"
   },
   {
     "id": "q2",
-    "name": "Zero-Waste Dustbins",
-    "price": "199",
-    "description": "Designed to seamlessly integrate into your waste management system, these dustbins offer a practical and sustainable approach to handling everyday waste while supporting a zero-waste lifestyle.",
-    "image": "images/dustbin_3.webp"
+    "name": "Men's Cotton T-shirt",
+    "price": "299",
+    "description": "Upgrade your everyday wardrobe with this classic cotton T-shirt, designed for both comfort and style. Made from 100% premium cotton, this T-shirt offers a soft, breathable feel that's perfect for any season.",
+    "image": "images/mens-fashion-walking-across-bridge-holding-hat.jpg"
   },
   {
     "id": "q3",
-    "name": "Dry Fruit Glass Jars",
-    "price": "649",
-    "description": "Crafted from high-quality glass, this jar offers an elegant way to store and display your favorite snacks while maintaining their natural flavor and crunch.",
-    "image": "images/assorted-nut-mixes-in-jars.jpg"
+    "name": "Beach Hat",
+    "price": "109",
+    "description": "Stay cool and chic under the sun with this stylish beach hat, the perfect accessory for your seaside adventures. Whether you're lounging by the water or taking a stroll along the shore, this beach hat is a must-have for sunny days.",
+    "image": "images/person-in-a-straw-hat-faces-toward-a-blue-sky.jpg"
   },
   {
     "id": "q4",
-    "name": "Green Bookshelf",
-    "price": "1799",
-    "description": "Discover the charm of efficient storage with our recycled bookshelf, designed to maximize space while adding a touch of style to any room.",
-    "image": "images/recycled_book_stand.png"
+    "name": "Artistic Watch",
+    "price": "2399",
+    "description": "Add a pop of color to your wrist with this elegant pink watch, designed to blend style and functionality seamlessly. Featuring a sleek, modern design, this watch showcases a soft pink strap made from high-quality materials.",
+    "image": "images/pexels-jessbaileydesign-1162519.jpg"
   },
   {
     "id": "q5",
-    "name": "Eco Storage Pouch",
-    "price": "129",
-    "description": "Designed for those who value both functionality and sustainability, this pouch is ideal for organizing your essentials while making a positive impact on the planet.",
-    "image": "images/cloth-bag-with-text-on-a-wooden-shelf.jpg"
+    "name": "Comfy Sweatshirt",
+    "price": "1899",
+    "description": "Experience ultimate comfort with this cozy sweatshirt, designed to keep you warm and relaxed on chilly days. The classic crew neck and ribbed cuffs add a timeless touch, while the breathable material ensures all-day comfort.",
+    "image": "images/ryan-hoffman-982Nb-awyVE-unsplash.jpg"
   },
   {
     "id": "q6",
-    "name": "Comfy Shorts",
-    "price": "139",
-    "description": "Designed for the modern individual who values both style and sustainability, these shorts are made from environmentally conscious materials without compromising on quality or fashion.",
-    "image": "images/kids-fashion-shorts.jpg"
+    "name": "Leather Jacket",
+    "price": "1599",
+    "description": "Elevate your wardrobe with this timeless leather jacket, a perfect blend of edgy style and premium craftsmanship. Whether you're dressing up for a night out or adding a stylish edge to your everyday look, this jacket is a must-have staple for any fashion-forward wardrobe.",
+    "image": "images/model-wearing-leather-jacket-and-tan-pants.jpg"
   }
 ]

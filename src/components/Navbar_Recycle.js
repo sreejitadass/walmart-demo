@@ -6,6 +6,7 @@ import { AiOutlineShoppingCart } from "react-icons/ai";
 import { BsPhone } from "react-icons/bs";
 import logo from "./../assets/logoRecycle.png";
 
+import { Link } from "react-router-dom";
 const Navbar = () => {
   return (
     <div className="">
@@ -40,6 +41,9 @@ const Navbar = () => {
           </div>
           <div className="hover:bg-[#0b6330] p-3 rounded-full">
             <AiOutlineShoppingCart className="w-7 h-7" />
+            <Link to='/cart'>
+            <div>CART</div>
+          </Link>
           </div>
         </div>
       </div>

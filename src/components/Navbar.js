@@ -49,6 +49,9 @@ const Navbar = () => {
           </div>
           <div className="hover:bg-[#06529a] p-3 rounded-full">
             <AiOutlineShoppingCart className="w-7 h-7" />
+            <Link to='/cart'>
+            <div>CART</div>
+          </Link>
           </div>
         </div>
       </div>
