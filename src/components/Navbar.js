@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import logo from "../assets/logo1.png";
-import { FaRecycle } from "react-icons/fa";
+import { FaRecycle, FaLeaf } from "react-icons/fa";
 import { GoSearch } from "react-icons/go";
 import { MdLogin, MdLogout } from "react-icons/md";
 import { BiWorld } from "react-icons/bi";
@@ -39,9 +39,9 @@ const Navbar = () => {
 
         {/* Right */}
         <div className="flex items-center gap-x-2">
-          <div className="flex items-center gap-2 hover:bg-[#06529a] p-3 rounded-full">
-            <MdLogin className="text-[17px] rotate-90" />
-            <p className="text-[16px] font-semibold">Register</p>
+          <div className="flex items-center gap-2 bg-[#109648] hover:bg-[#03933f] p-3.5 rounded-full">
+            <FaLeaf className="text-[17px]" />
+            <button className="text-[16px] font-semibold">GreenGuide</button>
           </div>
           <div className="flex items-center gap-2 hover:bg-[#06529a] p-3 rounded-full whitespace-nowrap">
             <MdLogout className="text-[20px] -rotate-90" />
@@ -49,9 +49,9 @@ const Navbar = () => {
           </div>
           <div className="hover:bg-[#06529a] p-3 rounded-full">
             <AiOutlineShoppingCart className="w-7 h-7" />
-            <Link to='/cart'>
-            <div>CART</div>
-          </Link>
+            <Link to="/cart">
+              <div>CART</div>
+            </Link>
           </div>
         </div>
       </div>

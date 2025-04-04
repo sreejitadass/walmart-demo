@@ -1,8 +1,9 @@
 import React from "react";
 import { GoSearch } from "react-icons/go";
-import { MdLogin, MdLogout } from "react-icons/md";
+import { MdLogout } from "react-icons/md";
 import { BiWorld } from "react-icons/bi";
 import { AiOutlineShoppingCart } from "react-icons/ai";
+import { FaLeaf } from "react-icons/fa";
 import { BsPhone } from "react-icons/bs";
 import logo from "./../assets/logoRecycle.png";
 
@@ -32,8 +33,8 @@ const Navbar = () => {
         {/* Right */}
         <div className="flex items-center gap-x-2">
           <div className="flex items-center gap-2 hover:bg-[#0b6330] p-3 rounded-full">
-            <MdLogin className="text-[17px] rotate-90" />
-            <p className="text-[16px] font-semibold">Register</p>
+            <FaLeaf className="text-[17px]" />
+            <button className="text-[16px] font-semibold">GreenGuide</button>
           </div>
           <div className="flex items-center gap-2 hover:bg-[#0b6330] p-3 rounded-full whitespace-nowrap">
             <MdLogout className="text-[20px] -rotate-90" />
@@ -41,9 +42,9 @@ const Navbar = () => {
           </div>
           <div className="hover:bg-[#0b6330] p-3 rounded-full">
             <AiOutlineShoppingCart className="w-7 h-7" />
-            <Link to='/cart'>
-            <div>CART</div>
-          </Link>
+            <Link to="/cart">
+              <div>CART</div>
+            </Link>
           </div>
         </div>
       </div>
@@ -60,6 +61,7 @@ const Navbar = () => {
         <p className="hidden md:flex hover:underline">
           Recycled and Upcycled Goods
         </p>
+        <p className="hidden md:flex hover:underline">Sell and Return Goods</p>
       </div>
     </div>
   );
