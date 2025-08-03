@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+# ♻️ RecycleMart — Gamifying Sustainable Shopping
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> Built during Walmart Sparkathon 2024 | Real-world Retail Problem Statement
 
-## Available Scripts
+## 🚀 Overview
 
-In the project directory, you can run:
+**RecycleMart** is a feature-rich e-commerce platform focused on promoting eco-conscious shopping behavior. It introduces a unique **green token reward system** that incentivizes customers to purchase recycled or upcycled products — blending sustainability with gamification.
 
-### `npm start`
+## 🌱 Problem Statement
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+In the retail industry, there's a growing need to drive environmentally responsible consumer behavior. However, customers often lack tangible motivation to choose sustainable alternatives over conventional options.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 💡 Our Solution — GreenMart Feature
 
-### `npm test`
+- 🎁 **Green Tokens**: Customers earn green tokens for every recycled or eco-friendly product purchased.
+- 🛍️ **Redemption System**: Tokens can be redeemed for discounts, perks, or exclusive deals.
+- ♻️ **Eco-tagged Products**: Products are clearly marked with sustainability indicators.
+- 📊 **User Dashboard**: View green points earned, purchase history, and environmental impact.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠️ Features
 
-### `npm run build`
+- Add to cart, checkout, and payment flow
+- Token-based rewards for recycled products
+- Admin dashboard to tag products as "eco-friendly"
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🌍 Impact
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+RecycleMart supports Walmart’s sustainability goals by making green shopping **rewarding, engaging, and visible** — creating an ecosystem where responsible consumer choices are recognized and incentivized.
